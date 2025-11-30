@@ -1,0 +1,4 @@
+hello abcde
+short longword
+
+Вилучено слів: 4
